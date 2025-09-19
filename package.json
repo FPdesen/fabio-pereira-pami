@@ -1,0 +1,12 @@
+{
+  "name": "fabio-pereira-pami",
+  "version": "1.0.0",
+  "description": "Aulas de programação mobile com o professor João Silles da ETEC Prof.Camargo Aranha",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
